@@ -1,0 +1,33 @@
+header, #storyField {
+  font-family: 'Lobster', cursive;
+}
+
+header, form, #storyField {
+  text-align: center;
+}
+
+header {
+  font-size: 4em;
+
+}
+
+#storyField, #classField {
+  top: 50px;
+  font-size: 2em;
+}
+
+#storyField{
+//  background-color: greenyellow;
+}
+
+#classField {
+//  background-color: sandybrown;
+
+
+}
+.char img {
+  cursor: hand;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 3px 3px 1px black;
+}
